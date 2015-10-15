@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ReadingGraph.Form1.resources
+obj\Debug\ReadingGraph.Properties.Resources.resources
+obj\Debug\ReadingGraph.csproj.GenerateResource.Cache
+bin\Debug\ReadingGraph.exe
+bin\Debug\ReadingGraph.pdb
+obj\Debug\ReadingGraph.exe
+obj\Debug\ReadingGraph.pdb
